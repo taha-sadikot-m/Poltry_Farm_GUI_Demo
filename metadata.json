@@ -1,0 +1,5 @@
+{
+  "name": "Inventory & Billing Pro",
+  "description": "A professional inventory management and billing system with authentication, dashboard, and POS features.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,8 @@
+node_modules
+.git
+.vscode
+*.log
+*.sqlite
+database.sqlite
+.env.local
+.DS_Store
